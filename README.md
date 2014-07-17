@@ -24,4 +24,7 @@ tumblr_backup.py was initially forked from
 ### freakmoch fork
 
 I've currently forked this to add improvements and a simple bat file for those not familiar with Python.
+
+Its only in work with tumblr_backup.py and xmltramp.currently, so other utils were deleted in the process. Please check up with the original source that was forked off for updates and downloads of these tools
+
 If its requested to be deleted I'll do so.
