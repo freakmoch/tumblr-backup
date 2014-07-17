@@ -3,7 +3,7 @@ color f5
 title bbolli tumblr backup
 :start
 echo Begin Tumblr backup using PYTHON
-echo All Python Scrips by BBOLLI
+echo BBOLLI Forked tumblr_backup.py
 echo Please refer to bbolli's GITHUB page for any extra commands
 echo https://github.com/bbolli/tumblr-utils
 echo BAT script by freakmoch
