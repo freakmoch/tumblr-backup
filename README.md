@@ -20,3 +20,8 @@ tumblr_backup.py was initially forked from
 ### License
 
 [GPL3](http://www.gnu.org/licenses/gpl-3.0.txt).
+
+### freakmoch fork
+
+I've currently forked this to add improvements and a simple bat file for those not familiar with Python.
+If its requested to be deleted I'll do so.
