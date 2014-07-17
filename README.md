@@ -15,6 +15,8 @@ Its only in work with `tumblr_backup.py` and `xmltramp.py` currently, so other u
 
 If its requested to be deleted I'll do so.
 
+xmltramp.py : http://www.aaronsw.com/2002/xmltramp/
+
 ### Acknowledgement
 
 tumblr_backup.py was initially forked from
