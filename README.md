@@ -1,3 +1,7 @@
+**THIS REPOSITORY IS SERIOUSLY OUTDATED**
+
+I doubt it even works anymore. I'll see if i can write a new .bat file or smth later
+
 # tumblr-backup
 
 This is a collection of utilities dealing with Tumblr blogs.
@@ -9,13 +13,13 @@ More documentation can be found in each script's docstring or in
 
 ### Freakmoch Fork
 
-I've currently forked this to add improvements and a simple bat file for those not familiar with Python.
+~~I've currently forked this to add improvements and a simple bat file for those not familiar with Python.~~
 
-Its only in work with `tumblr_backup.py` and `xmltramp.py` currently, so other utils were deleted in the process. Please check up with the original source that was forked off for updates and downloads of these tools
+~~Its only in work with `tumblr_backup.py` and `xmltramp.py` currently, so other utils were deleted in the process. Please check up with the original source that was forked off for updates and downloads of these tools~~
 
-If its requested to be deleted I'll do so.
+~~If its requested to be deleted I'll do so.~~
 
-xmltramp.py : http://www.aaronsw.com/2002/xmltramp/
+~~xmltramp.py : http://www.aaronsw.com/2002/xmltramp/~~
 
 ### Acknowledgement
 
